@@ -1,5 +1,6 @@
 # AWS Mini-Infra Report
-Video Tutorials and Troubleshooting [https://www.youtube.com/playlist?list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc]
+Video Tutorials and Troubleshooting 
+[https://www.youtube.com/playlist?list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc]
 
 
 #### Objective 
