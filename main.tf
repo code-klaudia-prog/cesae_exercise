@@ -86,9 +86,12 @@ resource "aws_instance" "bastion_host_cesae" {
   subnet_id = module.vpc.public_subnets[0]
   
   # Associação do Bastion Host ao Security Group
-  vpc_security_group_ids = [aws_security_group.bastion_host_sg_cesae.id] 
-  
-  associate_public_ip_address = true 
+  vpc_security_group_ids = [aws_security_group.bastion_host_sg_cesae.id]   
+  associate_public_ip_address = true
+  depends-on= [
+    aws_security_group.bastion_host_sg_cesae
+    module.vpc
+  ]
 }
 
 # Criacao do Security Group da instancia EC2 instance (associado a VPC)
@@ -127,6 +130,10 @@ resource "aws_instance" "ec2_prinvate_instance" {
   # Associação ao Security Group
   vpc_security_group_ids      = [aws_security_group.private_instance_sg_cesae.id] 
   associate_public_ip_address = false # Instância privada
+  depends-on= [
+    aws_security_group" "private_instance_sg_cesae
+    module.vpc
+  ]
 }
 
 # O resto dos blocos comentados foram mantidos como estavam.
