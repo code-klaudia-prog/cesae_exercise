@@ -88,7 +88,7 @@ resource "aws_instance" "bastion_host_cesae" {
   # Associação do Bastion Host ao Security Group
   vpc_security_group_ids = [aws_security_group.bastion_host_sg_cesae.id]   
   associate_public_ip_address = true
-  depends-on= [
+  depends_on= [
     aws_security_group.bastion_host_sg_cesae,
     module.vpc
   ]
@@ -130,7 +130,7 @@ resource "aws_instance" "ec2_prinvate_instance" {
   # Associação ao Security Group
   vpc_security_group_ids      = [aws_security_group.private_instance_sg_cesae.id] 
   associate_public_ip_address = false # Instância privada
-  depends-on= [
+  depends_on= [
     aws_security_group.private_instance_sg_cesae,
     module.vpc
   ]
