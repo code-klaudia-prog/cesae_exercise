@@ -13,6 +13,18 @@ Video Tutorials and Troubleshooting :
 #### [VIII - Error due to the amount of IPv4 Elastic IPs](https://www.youtube.com/watch?v=GyuWA3nEcKQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=8)
 #### [X - This is a very bad practice. Never do this](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
 #### [XI - Release Elastic IPv4 IPs](https://www.youtube.com/watch?v=1-6pAvp4jnU&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=12)
+#### [XII - Successfull deploy after Releasing IPs](https://www.youtube.com/watch?v=lL0BoNU2Rz0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=13)
+#### [XIII - Deployment confirmation on AWS](https://www.youtube.com/watch?v=ojHtGywaEsQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=14)
+#### [XIV - Manually delete resources by order](https://www.youtube.com/watch?v=llMHVWrrx1g&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=15)
+#### [XV-Unsuccessfull Bastion Host Connectivity check](https://www.youtube.com/watch?v=d81nfeHipck&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=16)
+#### [XVI-New TF workspace and Source Coded depends_on new block](https://www.youtube.com/watch?v=B3CfY1pJ_ys&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=17)
+#### [XVII-Pull Request and Feature-branch merge](https://www.youtube.com/watch?v=rCrmjKZMcE0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=18)
+#### [XVIII-Feature-branch deletion](https://www.youtube.com/watch?v=q2EZtgaws-c&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=19)
+#### [XIX-Manual resource deletion. Never do this if you are using TF](https://www.youtube.com/watch?v=q2EZtgaws-c&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=19)
+#### [XX- AWS cached credentials on TF Cloud](https://www.youtube.com/watch?v=wftlq2NJI7A&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=21)
+#### [XXI- Updated Bastion Host Security group](https://www.youtube.com/watch?v=8vVbNAHo2Qo&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=22)
+#### [XXII - Final Deployment. Nailed it!](https://www.youtube.com/watch?v=yOQqx76VGv8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=23)
+
 
 
 
