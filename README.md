@@ -176,6 +176,6 @@ The project demonstrated the successful provisioning of a complex, multi-AZ AWS 
   longer than 72 characters
 
 # Busted
-#### I've been using hardcoded variables all along because I was slopy and in a hurry
+#### I've was using hardcoded variables all along but they are correct now
 ![Busted](https://github.com/code-klaudia-prog/terraform_repo/blob/main/Screenshots/busted.png)
 
