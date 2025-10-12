@@ -9,7 +9,7 @@ Video Tutorials and Troubleshooting :
 #### [IV - Create na IAM User and generate Access Keys](https://www.youtube.com/watch?v=A1AGh_O4pB4&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=4)
 #### [V - Insert the Keys on TF Cloud and mark the secret as sensitive](https://www.youtube.com/watch?v=7uKyqmj5XJ8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=5)
 #### [VI - Triger a buil on TF Cloud](https://www.youtube.com/watch?v=flLJG1rNBJ0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=6)
-#### [VII - Confirm Deployment Success on AWS Console](https://www.youtube.com/watch?v=FH3YkQSqk9g&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=7)
+#### [VII - TF Cloud Build and Apply](https://www.youtube.com/watch?v=FH3YkQSqk9g&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=7)
 #### [VIII - Confirm Deployment Success on AWS Console](https://www.youtube.com/watch?v=GyuWA3nEcKQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=8)
 
 #### [X - Replaced hardcoded variables](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
