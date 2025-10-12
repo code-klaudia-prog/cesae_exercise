@@ -12,7 +12,7 @@ Video Tutorials and Troubleshooting :
 #### [VII - TF Cloud Build and Apply](https://www.youtube.com/watch?v=FH3YkQSqk9g&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=7)
 #### [VIII - Error due to the amount of IPv4 Elastic IPs](https://www.youtube.com/watch?v=GyuWA3nEcKQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=8)
 
-#### [X - Replaced hardcoded variables](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
+#### [X - This is a very bad practice. Never do this](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
 
 
 #### Objective 
