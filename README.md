@@ -10,7 +10,7 @@
 #### [VI - Triger a buil on TF Cloud](https://www.youtube.com/watch?v=flLJG1rNBJ0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=6)
 #### [VII - TF Cloud Build and Apply](https://www.youtube.com/watch?v=FH3YkQSqk9g&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=7)
 #### [VIII - Error due to the amount of IPv4 Elastic IPs](https://www.youtube.com/watch?v=GyuWA3nEcKQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=8)
-#### [X - This is a very bad practice. Never do this](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
+#### [X - This is a very bad practice. Never do this!](https://www.youtube.com/watch?v=hulRHgDD-a0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=11)
 #### [XI - Release Elastic IPv4 IPs](https://www.youtube.com/watch?v=1-6pAvp4jnU&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=12)
 #### [XII - Successfull deploy after Releasing IPs](https://www.youtube.com/watch?v=lL0BoNU2Rz0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=13)
 #### [XIII - Deployment confirmation on AWS](https://www.youtube.com/watch?v=ojHtGywaEsQ&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=14)
