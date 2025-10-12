@@ -24,7 +24,8 @@
 #### [XXI- Updated Bastion Host Security group](https://www.youtube.com/watch?v=8vVbNAHo2Qo&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=22)
 #### [XXII - Final Deployment. Nailed it!](https://www.youtube.com/watch?v=yOQqx76VGv8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=23)
 
-
+####
+####
 
 
 #### Objective 
