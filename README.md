@@ -5,7 +5,7 @@ Video Tutorials and Troubleshooting :
 
 #### [I - Create a TF Cloud Organization](https://www.youtube.com/watch?v=q5A9ReQ1C-Q&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=1)
 #### [II - Create a GitHub Repository](https://www.youtube.com/watch?v=nH5vYq2Uxlc&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=2)
-#### [III - Create a TF Cloud CLI Version Repository](https://www.youtube.com/watch?v=a3xWTP5ZmKs&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=3)
+#### [III - Create a TF Cloud Version Control Repository](https://www.youtube.com/watch?v=a3xWTP5ZmKs&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=3)
 #### [IV - Create na IAM User and generate Access Keys](https://www.youtube.com/watch?v=A1AGh_O4pB4&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=4)
 #### [V - Insert the Keys on TF Cloud and marc the secret as sensitive](https://www.youtube.com/watch?v=7uKyqmj5XJ8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=5)
 #### [VI - Triger a buil on TF Cloud](https://www.youtube.com/watch?v=flLJG1rNBJ0&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=6)
