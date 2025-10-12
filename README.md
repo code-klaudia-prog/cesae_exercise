@@ -167,15 +167,14 @@ The project demonstrated the successful provisioning of a complex, multi-AZ AWS 
 ![AWS VPC](https://github.com/code-klaudia-prog/terraform_repo/blob/main/Screenshots/VPC.png)
 
 # Disclaimer
-
 - In order to simplify the video, we have been using the correct git workflow
-- Always recall that in a corporative scenario, if you commit to the main branch, youre fired
-- Developent iterations are done with Feature-branches
-- Feature branches are usually deleted after erged with the dev branch
-- Although this is not mandatory, the good practices recommend that the commit message is not
-  longer than 72 characters
 
-# Busted
-#### I've was using hardcoded variables all along but they are correct now
-![Busted](https://github.com/code-klaudia-prog/terraform_repo/blob/main/Screenshots/busted.png)
+
+# Fired
+#### Always recall that in a corporative scenario, if you commit to the main branch, youre fired
+![Busted](https://github.com/code-klaudia-prog/terraform_repo/blob/main/Screenshots/dontdoit.jpg)
+# 
+- Always recall that in a corporative scenario, if you commit to the main branch, youre fired
+- Development iterations are done creating feature-branches
+- Feature branches are usually deleted after merged with the dev
 
