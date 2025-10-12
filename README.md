@@ -1,7 +1,6 @@
 # AWS Mini-Infra Report
-Video Tutorials and Troubleshooting :
 #### 
-[Video Tutorials and Troubleshooting](https://www.youtube.com/watch?v=yOQqx76VGv8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=18)
+[Video Tutorials and Troubleshooting:](https://www.youtube.com/watch?v=yOQqx76VGv8&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=18)
 
 #### [I - Create a TF Cloud Organization](https://www.youtube.com/watch?v=q5A9ReQ1C-Q&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=1)
 #### [II - Create a GitHub Repository](https://www.youtube.com/watch?v=nH5vYq2Uxlc&list=PLxKrRFAs8UQJ9xG6nh9WIEOntrBTMoiTc&index=2)
